@@ -1,0 +1,4 @@
+#!sh
+
+cd "$(dirname "$0")"
+ruby ./diceware.rb $1
